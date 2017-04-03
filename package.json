@@ -1,0 +1,8 @@
+{
+  "name": "learn-travis-w3xp005",
+  "description": "Simple Travis-CI check for JSHint (Code Linting)",
+  "version": "0.0.1",
+  "devDependencies": {
+    "jshint": "^2.9.4"
+  }
+}
